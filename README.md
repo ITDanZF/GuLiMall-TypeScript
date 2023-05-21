@@ -1,0 +1,2 @@
+# GuLiMall-TypeScript
+使用基于TypeScript的koa框架实现谷粒商城的后端
